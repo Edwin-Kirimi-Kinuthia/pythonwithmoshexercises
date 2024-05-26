@@ -1,1 +1,1 @@
-# pythonwithmoshexercises
+# python exercises
